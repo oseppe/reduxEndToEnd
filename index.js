@@ -1,1 +1,1 @@
-alert('hello world');
+import './app/client';
